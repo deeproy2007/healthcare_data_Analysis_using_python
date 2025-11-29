@@ -1,0 +1,11 @@
+Tools Used in Healthcare Data Cleaning Project
+
+This file lists all tools and libraries used in the project.
+
+1.  Python 3.x
+2.  Pandas – For data cleaning and preprocessing
+3.  Matplotlib – For data visualization
+4.  Seaborn – For statistical plots
+5.  CSV File Handling – For reading and saving cleaned dataset
+
+Output: - clean_healthcare.csv - Multiple visual charts (Matplotlib)
