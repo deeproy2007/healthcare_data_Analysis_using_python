@@ -33,4 +33,12 @@ Blood pressure & health indicators
 Correlation insights
 
 📁 Project Structure
-        
+
+      /healthcare_data_analysis
+  ├── healthcare.ipynb
+  ├── data/
+  └── README.md
+
+🚀 Results
+
+Includes visualizations and actionable insights for healthcare analytics.
